@@ -6,18 +6,69 @@
     <description>Recent content on Riptide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Jan 2019 17:56:26 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jan 2019 20:58:17 -0600</lastBuildDate>
     
 	<atom:link href="https://riptidetheband.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Foo</title>
-      <link>https://riptidetheband.com/posts/foo/</link>
-      <pubDate>Thu, 31 Jan 2019 17:56:26 -0600</pubDate>
+      <title>Welcome</title>
+      <link>https://riptidetheband.com/posts/welcome/</link>
+      <pubDate>Thu, 31 Jan 2019 20:58:17 -0600</pubDate>
       
-      <guid>https://riptidetheband.com/posts/foo/</guid>
-      <description> Hello World </description>
+      <guid>https://riptidetheband.com/posts/welcome/</guid>
+      <description>Welcome to the new Riptide site!
+After taking a short break from playing shows, we are back! We&amp;rsquo;ve now updated our social media sites and created this brand new website to keep you all up to date with all of the latest and greatest going on with the band.
+This site is going to be a work in progress so feel free to let us know via our Contact Form if you would like to book a show, request an improvement with the site, or even Request a Song.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://riptidetheband.com/about/</link>
+      <pubDate>Thu, 31 Jan 2019 19:52:57 -0600</pubDate>
+      
+      <guid>https://riptidetheband.com/about/</guid>
+      <description>Riptide is a blues/rock cover band from Albert Lea, Minnesota. Riptide started in 2009 as a 5 piece band playing several local shows while still in high school. After graduation and some moving around, the current lineup was set.
+Christian Andersen - Lead Vocals / Drums
+Mike Dyrdal - Bass Guitar / Vocals
+Kyle Niedermeier - Guitar / Vocals
+Plese feel free to contact us at email to inquire about booking a show!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://riptidetheband.com/contact/</link>
+      <pubDate>Thu, 31 Jan 2019 19:52:57 -0600</pubDate>
+      
+      <guid>https://riptidetheband.com/contact/</guid>
+      <description>Loading... </description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://riptidetheband.com/music/</link>
+      <pubDate>Thu, 31 Jan 2019 19:52:57 -0600</pubDate>
+      
+      <guid>https://riptidetheband.com/music/</guid>
+      <description>      </description>
+    </item>
+    
+    <item>
+      <title>Shows</title>
+      <link>https://riptidetheband.com/shows/</link>
+      <pubDate>Thu, 31 Jan 2019 19:52:57 -0600</pubDate>
+      
+      <guid>https://riptidetheband.com/shows/</guid>
+      <description>Shows coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Song Request</title>
+      <link>https://riptidetheband.com/songrequest/</link>
+      <pubDate>Thu, 31 Jan 2019 19:52:57 -0600</pubDate>
+      
+      <guid>https://riptidetheband.com/songrequest/</guid>
+      <description>Loading... </description>
     </item>
     
   </channel>
