@@ -16,6 +16,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  favicon = "images/favicon.ico"
   description = "A Blues/Rock cover band from Albert Lea, Minnesota"
   facebook = "https://facebook.com/riptidetheband"
   twitter = "https://twitter.com/riptideband2"
