@@ -10,7 +10,7 @@ jobs:
           command: 'rm -rf public'
       - run:
           name: Build Site
-          command: './tools/hugo-linux'
+          command: 'HUGO_ENV=production ./tools/hugo-linux'
       - persist_to_workspace:
           root: public
           paths:
