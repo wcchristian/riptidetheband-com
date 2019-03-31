@@ -19,9 +19,10 @@ action "Deploy to S3" {
   secrets = [
     "AWS_ACCESS_KEY_ID",
     "AWS_SECRET_ACCESS_KEY",
-    "ANDERC_S3_BUCKET_URL",
+    "RIPTIDE_S3_BUCKET_URL",
+    "SLACK_WEBHOOK",
   ]
-  args = "s3 sync public s3://$ANDERC_S3_BUCKET_URL --delete"
+  args = "s3 sync public s3://$RIPTIDE_S3_BUCKET_URL --delete"
   env = {
     FOO = "bar"
   }
