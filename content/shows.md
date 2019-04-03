@@ -8,4 +8,7 @@ menu:
   main: {}
 ---
 
-Shows coming soon...
+
+[112 on Broadway](https://www.google.com/maps/place/112+On+Broadway/@43.6495277,-93.3710975,17z/data=!3m1!4b1!4m5!3m4!1s0x87f136920c1f7515:0xdee78a09d43a0d7f!8m2!3d43.6495277!4d-93.3689088) | Albert Lea, MN | 5/18/19 8p
+
+[112 on Broadway Street Dance](https://www.google.com/maps/place/112+On+Broadway/@43.6495277,-93.3710975,17z/data=!3m1!4b1!4m5!3m4!1s0x87f136920c1f7515:0xdee78a09d43a0d7f!8m2!3d43.6495277!4d-93.3689088) | Albert Lea, MN | 5/18/19 4:30p
